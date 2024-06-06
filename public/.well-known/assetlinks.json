@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "org.kdu.game.friendlyminesweeper",
+      "sha256_cert_fingerprints": [
+        "E5:BF:32:3B:BB:72:A9:C1:23:D1:6A:0E:0D:E2:4A:5E:6E:B2:6C:B0:F5:07:B7:C7:00:3D:81:82:03:CA:F7:83"
+      ]
+    }
+  }
+]
